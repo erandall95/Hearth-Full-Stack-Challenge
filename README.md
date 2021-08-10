@@ -1,7 +1,7 @@
 # Getting Started
 
 This project was created to complete the "Full-Stack Challenge" from Shogun Enterprises Inc. Hearth®.
-![Hearth Full-Stack Challenge App](./../assest/readme_img.png)
+![Hearth Full-Stack Challenge App](./assest/readme_img.png)
 
 * Search returns homes related to address query "123 Fake St.")
 * HTML/CSS/JS web app frontend (React or similar frontend framework, basic design)
@@ -13,7 +13,9 @@ This project was created to complete the "Full-Stack Challenge" from Shogun Ente
 ## How to run the App
 
 This app can either be run with Docker or with Node through NPM.
+
 Download - [Docker](https://www.docker.com/products/docker-desktop)
+
 Download - [Node](https://nodejs.org/en/download/)
 
 ### Run with Docker
